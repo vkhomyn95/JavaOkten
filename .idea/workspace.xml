@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="400abf02-7c84-48e0-86b7-4a294ae7521b" name="Default Changelist" comment="" />
+    <list default="true" id="400abf02-7c84-48e0-86b7-4a294ae7521b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework5/part1/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework5/part1/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework5/part1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework5/part1/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework5/part2/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework5/part2/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework5/part2/ContactDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework5/part2/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework5/part2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,11 +28,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gcvZwUguELfuzU9m7v1C6Bd3RB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,9 +45,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/homework3" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -38,7 +62,33 @@
       <recent name="$PROJECT_DIR$/src/homework2" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework5.part1.Main" />
+      <module name="JavaOkten" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework5.part1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework5.part2.Main" />
+      <module name="JavaOkten" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework5.part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework3.part7.Main" />
       <module name="JavaOkten" />
@@ -54,6 +104,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -68,7 +120,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598426753723</updated>
-      <workItem from="1598426758125" duration="631000" />
+      <workItem from="1598426758125" duration="7741000" />
     </task>
     <servers />
   </component>
@@ -76,25 +128,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="505" y="-824" key="#com.intellij.ide.util.MemberChooser" timestamp="1598427338778">
+    <state x="505" y="-824" key="#com.intellij.ide.util.MemberChooser" timestamp="1598432449319">
       <screen x="-268" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="505" y="-824" key="#com.intellij.ide.util.MemberChooser/-268.-1080.1920.1080/0.0.1440.900@-268.-1080.1920.1080" timestamp="1598427338778" />
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1598427393404">
+    <state x="505" y="-824" key="#com.intellij.ide.util.MemberChooser/-268.-1080.1920.1080/0.0.1440.900@-268.-1080.1920.1080" timestamp="1598432449319" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1598438532410">
       <screen x="-268" y="-1080" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom/-268.-1080.1920.1080/0.0.1440.900@-268.-1080.1920.1080" timestamp="1598427393404" />
-    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1598427393401">
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/-268.-1080.1920.1080/0.0.1440.900@-268.-1080.1920.1080" timestamp="1598438532410" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1598438532408">
       <screen x="-268" y="-1080" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.center/-268.-1080.1920.1080/0.0.1440.900@-268.-1080.1920.1080" timestamp="1598427393401" />
-    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1598427393398">
+    <state width="1878" height="304" key="GridCell.Tab.0.center/-268.-1080.1920.1080/0.0.1440.900@-268.-1080.1920.1080" timestamp="1598438532408" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1598438532406">
       <screen x="-268" y="-1080" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.left/-268.-1080.1920.1080/0.0.1440.900@-268.-1080.1920.1080" timestamp="1598427393398" />
-    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1598427393403">
+    <state width="1878" height="304" key="GridCell.Tab.0.left/-268.-1080.1920.1080/0.0.1440.900@-268.-1080.1920.1080" timestamp="1598438532406" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1598438532409">
       <screen x="-268" y="-1080" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.right/-268.-1080.1920.1080/0.0.1440.900@-268.-1080.1920.1080" timestamp="1598427393403" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/-268.-1080.1920.1080/0.0.1440.900@-268.-1080.1920.1080" timestamp="1598438532409" />
+    <state x="357" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1598432014572">
+      <screen x="-268" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="357" y="-839" width="670" height="676" key="search.everywhere.popup/-268.-1080.1920.1080/0.0.1440.900@-268.-1080.1920.1080" timestamp="1598432014572" />
   </component>
 </project>
